@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\workspace\VisualStudio\Games\Terit_xep_hinh\main.cpp(51,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Desktop\workspace\VisualStudio\Games\Terit_xep_hinh\main.cpp(64,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Admin\Desktop\workspace\VisualStudio\Games\Terit_xep_hinh\main.cpp(95,60): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Admin\Desktop\workspace\VisualStudio\Games\Terit_xep_hinh\main.cpp(149,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Admin\Desktop\workspace\VisualStudio\Games\Terit_xep_hinh\main.cpp(161,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\workspace\VisualStudio\Games\Terit_xep_hinh\main.cpp(161,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\workspace\VisualStudio\Games\Terit_xep_hinh\main.cpp(169,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\workspace\VisualStudio\Games\Terit_xep_hinh\main.cpp(169,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Terit_xep_hinh.vcxproj -> C:\Users\Admin\Desktop\workspace\VisualStudio\Games\Debug\Terit_xep_hinh.exe
